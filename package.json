@@ -1,0 +1,24 @@
+{
+  "name": "gdg-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dh4nya/gdg-hackathon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dh4nya/gdg-hackathon/issues"
+  },
+  "homepage": "https://github.com/dh4nya/gdg-hackathon#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "react": "^19.1.1"
+  }
+}
